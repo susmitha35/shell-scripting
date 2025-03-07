@@ -2,7 +2,7 @@
 
 # Define users and their passwords
 USERS=("user1" "user2" "user3" "user4" "user5")
-PASSWORD="Password123"
+PASSWORD="Passwo234"
 
 # Loop through each user
 for USER in "${USERS[@]}"; do
